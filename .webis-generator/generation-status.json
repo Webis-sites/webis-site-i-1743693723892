@@ -1,11 +1,54 @@
 {
-  "timestamp": "2025-04-03T15:22:03.927Z",
+  "timestamp": "2025-04-03T15:22:19.385Z",
   "status": {
-    "totalComponents": 0,
+    "totalComponents": 7,
     "completedComponents": 0,
     "failedComponents": 0,
     "progress": 0
   },
-  "components": [],
+  "components": [
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "Main hero section with headline, description and call to action"
+    },
+    {
+      "name": "AboutUsSection",
+      "type": "about",
+      "status": "pending",
+      "description": "Section explaining the restaurant's background, experience and expertise"
+    },
+    {
+      "name": "ServicesSection",
+      "type": "services",
+      "status": "pending",
+      "description": "Section showcasing the restaurant's services and specialties"
+    },
+    {
+      "name": "FAQSection",
+      "type": "faq",
+      "status": "pending",
+      "description": "Frequently asked questions about the restaurant"
+    },
+    {
+      "name": "ContactForm",
+      "type": "contact",
+      "status": "pending",
+      "description": "Contact form for customer inquiries"
+    },
+    {
+      "name": "LocationSection",
+      "type": "location",
+      "status": "pending",
+      "description": "Section showing the restaurant's location and contact information"
+    },
+    {
+      "name": "FooterSection",
+      "type": "footer",
+      "status": "pending",
+      "description": "Footer with essential links and information"
+    }
+  ],
   "repoName": "webis-site-i-1743693723892"
 }
